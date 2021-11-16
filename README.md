@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+<p align="center">
+  <a href="https://bsgip.com/">
+    <img src="https://bsgip.com/wp-content/uploads/2020/03/BSGIP-RGB.png" alt="BSGIP logo" width="500">
+  </a>
+</p>
 
-You can use the [editor on GitHub](https://github.com/bsgip/bsgip.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<h3 align="center">Software Development</h3>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Table of contents
 
-### Markdown
+- [Introduction](#introduction)
+- [Software Projects](#software-projects)
+- [Coding Guidelines](#coding-guidelines)
+- [Dev Team](#dev-team)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Introduction
+ 
+This page give information about the software development activities at BSGIP.
 
-```markdown
-Syntax highlighted code block
+For the latest news and further information on all the projects and initiatives, check out the [BSGIP website](https://bsgip.com/)
 
-# Header 1
-## Header 2
-### Header 3
+## Software Projects
 
-- Bulleted
-- List
+Software development at BSGIP encompasses a wide range of projects which are built in collaboration with government, industry and community partners. 
 
-1. Numbered
-2. List
+The projects listed below only represent a small part of BSGIP's software development efforts. Check back frequently as we open-source more projects.
 
-**Bold** and _Italic_ and `Code` text
+### c3x
 
-[Link](url) and ![Image](src)
-```
+c3x is a broad suite of software to interact and analyse energy systems and markets.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- [c3x-data](https://github.com/bsgip/c3x-data) — Energy data analysis tools.
+- [c3x-enomo](https://github.com/bsgip/c3x-enomo) — Energy Output Model Optimiser.
 
-### Jekyll Themes
+### 2030.5
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bsgip/bsgip.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[IEEE 2030.5](https://standards.ieee.org/standard/2030_5-2018.html) is an application protocol for interfacing with smart energy devices.
 
-### Support or Contact
+- [envoy-client](https://github.com/bsgip/envoy-client) — A library and areference implementation for a client designed to interface with a [2030.5](https://standards.ieee.org/standard/2030_5-2018.html) compliant server.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Coding Guidelines
+
+The section with link to our coding guidelines documentation.
+
+## Dev Team
+
+- [Ben Weise](https://cecs.anu.edu.au/people/ben-weise) — CTO and Lead Software Developer
+
+- [Mitch Blyth](https://cecs.anu.edu.au/people/mitchell-blyth)
+- [Mustafa Habib](https://cecs.anu.edu.au/people/mustafa-habib)
+- [Meike Moeckel](https://cecs.anu.edu.au/people/meike-moeckel)
+- [Anna Sobeleva](https://cecs.anu.edu.au/people/anna-skobeleva)
+- [Michael Thomas](https://cecs.anu.edu.au/people/michael-thomas)
+- [Mike Turner](https://cecs.anu.edu.au/people/mike-turner)
