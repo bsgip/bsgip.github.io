@@ -45,7 +45,6 @@ The section with link to our coding guidelines documentation.
 ## Dev Team
 
 - [Ben Weise](https://cecs.anu.edu.au/people/ben-weise) — CTO and Lead Software Developer
-
 - [Mitch Blyth](https://cecs.anu.edu.au/people/mitchell-blyth)
 - [Mustafa Habib](https://cecs.anu.edu.au/people/mustafa-habib)
 - [Meike Moeckel](https://cecs.anu.edu.au/people/meike-moeckel)
